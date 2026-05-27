@@ -141,3 +141,5 @@ at Bharati Vidyapeeth College of Engineering, Pune.
 Building my Data Analytics portfolio from Day 1.
 
 🔗 LinkedIn: linkedin.com/in/shubh-chaturvedi-48b02537a
+
+https://github.com/Shubh-analyst/Spotify-Dashboard/blob/main/Screenshot%202026-05-27%20013759.png
